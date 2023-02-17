@@ -9,3 +9,5 @@ Tenha em mente que esses patchs são disponibilizados de forma gratuíta, sendo 
 ## Plataformas
 
 - [Game Boy](game-boy/)
+- [Game Boy Color](game-boy-color/)
+- [Game Boy Advance](game-boy-advance/)
