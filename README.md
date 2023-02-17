@@ -8,4 +8,4 @@ Tenha em mente que esses patchs são disponibilizados de forma gratuíta, sendo 
 
 ## Plataformas
 
-- Game Boy
+- [Game Boy](game-boy/)
